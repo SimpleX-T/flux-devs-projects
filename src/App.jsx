@@ -9,6 +9,7 @@ import Projects from "./Pages/Projects";
 import Service from "./Pages/Service";
 
 function App() {
+	// nothing much
 	return (
 		<>
 			<ContextProvider>
